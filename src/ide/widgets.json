@@ -1,0 +1,41 @@
+[
+  {
+    "id": 3,
+    "widgetType": "ColorPicker",
+    "variableName": "cur_color",
+    "x": 29,
+    "y": 33
+  },
+  {
+    "id": 4,
+    "widgetType": "Button",
+    "variableName": "clear",
+    "x": 274,
+    "y": 34,
+    "buttonText": "Clear"
+  },
+  {
+    "id": 1,
+    "widgetType": "Display",
+    "variableName": "cur_x",
+    "description": "Current X",
+    "x": 271,
+    "y": 242
+  },
+  {
+    "id": 0,
+    "widgetType": "Display",
+    "variableName": "cur_color",
+    "description": "Current Color",
+    "x": 30,
+    "y": 415
+  },
+  {
+    "id": 2,
+    "widgetType": "Display",
+    "variableName": "cur_y",
+    "description": "Current Y",
+    "x": 272,
+    "y": 473
+  }
+]
